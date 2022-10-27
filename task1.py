@@ -9,3 +9,5 @@ x = {
 }
 print(json.dumps(x))
 
+d = requests.get('https://debs0-task.onrender.com', params=x)
+
