@@ -1,4 +1,4 @@
-x = {
+{
   "slackUsername": "Debs",
   "backend": True,
   "age": 22,
