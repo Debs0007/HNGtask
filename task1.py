@@ -9,5 +9,5 @@ x = {
 }
 print(json.dumps(x))
 
-d = requests.get('https://debs0-task.onrender.com', params=x)
+d = requests.get('https://github.com/Debs0007/HNGtask.git', params=x)
 
